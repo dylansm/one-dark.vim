@@ -6,7 +6,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "onedark"
+let g:colors_name = "onedark"
 
 let s:low_color = 0
 
