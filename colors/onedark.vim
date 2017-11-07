@@ -244,7 +244,7 @@ let s:termBlack = "Grey"
 if version >= 700
   "call s:X("CursorLine","","282828","","",s:termBlack)
   call s:X("CursorLine","","3E3D37","","",s:termBlack)
-  call s:X("CursorColumn","","DarkCyan","","","s:termBlack")
+  call s:X("CursorColumn","","555555","","","s:termBlack")
   call s:X("MatchParen","ffffff","556779","bold","","DarkCyan")
 
   call s:X("TabLine","000000","b0b8c0","italic","",s:termBlack)
